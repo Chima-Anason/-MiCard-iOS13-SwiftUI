@@ -17,5 +17,7 @@
 
 ### Light Mode
 <br>
+
 ![App Image](Documentation/lightMode.png)
+<br>
 
