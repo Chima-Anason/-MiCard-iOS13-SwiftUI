@@ -9,12 +9,13 @@
 
 ## App Image
 
-Dark Mode
-,,,,
-![App Image](Documentation/darkMode.png)
+### Dark Mode
+<br>
 
-,,,,,
-Light Mode
-,,,,,
+![App Image](Documentation/darkMode.png)
+<br>
+
+### Light Mode
+<br>
 ![App Image](Documentation/lightMode.png)
 
