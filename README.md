@@ -10,9 +10,11 @@
 ## App Image
 
 Dark Mode
+,,,,
 ![App Image](Documentation/darkMode.png)
 
-
+,,,,,
 Light Mode
+,,,,,
 ![App Image](Documentation/lightMode.png)
 
