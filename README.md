@@ -7,7 +7,12 @@
  Use of SwiftUI to develop an info IOS app 
 
 
-## What you will create
+## App Image
 
-![App Image](Documentation/MiCard-app.png)
+Dark Mode
+![App Image](Documentation/darkMode.png)
+
+
+Light Mode
+![App Image](Documentation/lightMode.png)
 
